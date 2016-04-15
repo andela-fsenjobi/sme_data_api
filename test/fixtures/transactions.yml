@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 
+  subscription_id: 
+  size: 9.99
+  profit: 1
+
+two:
+  customer_id: 
+  subscription_id: 
+  size: 9.99
+  profit: 1
